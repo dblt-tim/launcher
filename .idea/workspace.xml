@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13a0257b-ab51-44d7-9cc5-e7344f0763e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/timdblt/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/timdblt/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/timdblt/ui/PanelManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/timdblt/ui/panel/IMovable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/timdblt/ui/panel/IPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/timdblt/ui/panel/ITakePlace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/timdblt/ui/panel/Panel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/timdblt/utils/Helpers.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2zpDQoco2cqpN2EEYGqWYbrEZ8J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "onboarding.tips.debug.path": "C:/Users/timeo/Dev/launcher/src/main/java/dev/timdblt/Main.java"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13a0257b-ab51-44d7-9cc5-e7344f0763e2" name="Changes" comment="" />
+      <created>1752419114108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752419114108</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dev/timdblt/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
